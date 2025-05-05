@@ -1,3 +1,10 @@
+# repo
+
+https://github.com/pleabargain/html-javascript-gear-engine-toy
+
+# why
+I was learning about gears and I saw the animation and then I said, well, an LLM can generate that. So that's what I did. It took about 120 seconds of typing the correct description and Sonnet got it right on the first iteration. It's a toy but the principle is the same. You can generate working POCs in seconds if you know how to structure your prompt.
+
 # Interactive Gear Visualization
 
 This is an interactive web-based visualization tool that demonstrates the relationship between gears with different numbers of teeth. It shows how gears of different sizes rotate at different speeds when connected in a gear train.
